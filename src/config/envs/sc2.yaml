@@ -27,7 +27,7 @@ env_args:
   state_timestep_number: False
   step_mul: 8
   seed: null
-  heuristic_ai: False
+#  heuristic_ai: False
   debug: False
 
 learner_log_interval: 20000
