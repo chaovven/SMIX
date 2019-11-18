@@ -1,7 +1,7 @@
 
 # SMIX(λ)
 
-PyTorch implementation of "SMIX(λ): Enhancing Centralized Value Functions for Cooperative Multi-Agent Reinforcement Learning". If you use our code please cite the paper.
+PyTorch implementation of "[SMIX(λ): Enhancing Centralized Value Functions for Cooperative Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1911.04094)". If you use our code please cite the paper.
 
 
 ## Installation
