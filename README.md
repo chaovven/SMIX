@@ -19,6 +19,10 @@ Run SMIX(λ) on 3s5z map:
 python3 src/main.py --config=smix --env-config=sc2 with env_args.map_name=3s5z
 ```
 
+## Results
+
+![](assets/result.jpg)
+
 ## Replays of SMIX(λ)
 
 Videos of SMIX(λ)'s performance on 3s5z scenario are available respectively at: 
